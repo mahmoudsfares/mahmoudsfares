@@ -7,8 +7,8 @@ Java:
 
 - UnitedMania (Retrofit, NavigationComponent, MVVM architecture): https://github.com/mahmoudsfares/UnitedMania-Java
 - ContentProviders: 
-  A) provider (RoomDb): https://github.com/mahmoudsfares/ContentProvider-Provider-Sample 
-  B) getter: https://github.com/mahmoudsfares/ContentProvider-Getter-Sample
+ A) provider (RoomDb): https://github.com/mahmoudsfares/ContentProvider-Provider-Sample
+ B) getter: https://github.com/mahmoudsfares/ContentProvider-Getter-Sample
 - RecyclerView item persistency: https://github.com/mahmoudsfares/RecyclerView-Item-Presistency-Sample
 - Location on map (FusedLocation, GoogleMap): https://github.com/mahmoudsfares/LocationOnMap-Sample
 - Push notifications (WorkManager (recommended) / FirebaseJobService (deprecated)): https://github.com/mahmoudsfares/PushNotification-Sample
