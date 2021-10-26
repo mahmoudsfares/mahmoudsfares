@@ -5,15 +5,15 @@ Here are links to samples of the things that I've learned so far:
 
 Java:
 
-- Location on map (FusedLocation, GoogleMap): https://github.com/mahmoudsfares/LocationOnMap-Sample
-- Push notifications (WorkManager (recommended) / FirebaseJobService (deprecated)): https://github.com/mahmoudsfares/PushNotification-Sample
-- Notifications between devices (Firebase Cloud Messaging (FCM)): https://github.com/mahmoudsfares/FCMNotification-Sample
 - UnitedMania (Retrofit, NavigationComponent, MVVM architecture): https://github.com/mahmoudsfares/UnitedMania-Java
-- ZIP downloader (DownloadManager (recommended) / IOStream (old, not reommended)): https://github.com/mahmoudsfares/ZIP-Downloader-Sample
-- RecyclerView item persistency: https://github.com/mahmoudsfares/RecyclerView-Item-Presistency-Sample
 - ContentProviders: 
   A) provider (RoomDb): https://github.com/mahmoudsfares/ContentProvider-Provider-Sample
   B) getter: https://github.com/mahmoudsfares/ContentProvider-Getter-Sample
+- RecyclerView item persistency: https://github.com/mahmoudsfares/RecyclerView-Item-Presistency-Sample
+- Location on map (FusedLocation, GoogleMap): https://github.com/mahmoudsfares/LocationOnMap-Sample
+- Push notifications (WorkManager (recommended) / FirebaseJobService (deprecated)): https://github.com/mahmoudsfares/PushNotification-Sample
+- Notifications between devices (Firebase Cloud Messaging (FCM)): https://github.com/mahmoudsfares/FCMNotification-Sample
+- ZIP downloader (DownloadManager (recommended) / IOStream (old, not reommended)): https://github.com/mahmoudsfares/ZIP-Downloader-Sample
 - Testing (Espresso, IdlingResource): https://github.com/mahmoudsfares/IdlingResource-Sample
 
 Kotlin:
