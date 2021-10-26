@@ -28,6 +28,8 @@ Java:
 
 - Testing (Espresso, IdlingResource): https://github.com/mahmoudsfares/IdlingResource-Sample
 
+- [FORKED] QR scanner: https://github.com/mahmoudsfares/QR-APP
+
 
 
 Kotlin:
@@ -49,7 +51,6 @@ Flutter:
 - FloorDatabase: https://github.com/mahmoudsfares/floordb-sample
 
 - Bottom navigation with multiple navigators: https://github.com/mahmoudsfares/bottom-nav-multiple-navigators-sample
-
 
 
 
