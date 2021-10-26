@@ -12,11 +12,9 @@ Java:
 
 - UnitedMania (Retrofit, NavigationComponent, MVVM architecture): https://github.com/mahmoudsfares/UnitedMania-Java
 
-- ContentProviders: 
+- ContentProviders (provider (RoomDb)): https://github.com/mahmoudsfares/ContentProvider-Provider-Sample
 
- A) provider (RoomDb): https://github.com/mahmoudsfares/ContentProvider-Provider-Sample
- 
- B) getter: https://github.com/mahmoudsfares/ContentProvider-Getter-Sample
+- ContentProviders (getter): https://github.com/mahmoudsfares/ContentProvider-Getter-Sample
  
 - RecyclerView item persistency: https://github.com/mahmoudsfares/RecyclerView-Item-Presistency-Sample
 
@@ -30,6 +28,8 @@ Java:
 
 - Testing (Espresso, IdlingResource): https://github.com/mahmoudsfares/IdlingResource-Sample
 
+
+
 Kotlin:
 
 
@@ -38,6 +38,8 @@ Kotlin:
 - DataStore: https://github.com/mahmoudsfares/DataStore-Sample
 
 - ViewPager2: https://github.com/mahmoudsfares/ViewPager-Sample
+
+
 
 Flutter:
 
