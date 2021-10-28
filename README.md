@@ -52,6 +52,8 @@ Flutter:
 
 - Bottom navigation with multiple navigators: https://github.com/mahmoudsfares/bottom-nav-multiple-navigators-sample
 
+- Dependency injection with GetX: https://github.com/mahmoudsfares/get-di-sample.git
+
 
 
 🔭 Currently working on extending this list ...
