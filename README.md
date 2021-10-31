@@ -54,6 +54,8 @@ Flutter:
 
 - Dependency injection with GetX: https://github.com/mahmoudsfares/get-di-sample.git
 
+- Timer: https://github.com/mahmoudsfares/timer-sample
+
 
 
 🔭 Currently working on extending this list ...
