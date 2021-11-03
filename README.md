@@ -56,6 +56,8 @@ Flutter:
 
 - Timer: https://github.com/mahmoudsfares/timer-sample
 
+- ListView persistency: https://github.com/mahmoudsfares/listview-persistency-sample
+
 
 
 🔭 Currently working on extending this list ...
