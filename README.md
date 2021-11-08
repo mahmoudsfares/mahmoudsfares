@@ -58,6 +58,10 @@ Flutter:
 
 - ListView persistency: https://github.com/mahmoudsfares/listview-persistency-sample
 
+- Firebase storage (file_picker): https://github.com/mahmoudsfares/firebase-storage-sample
+
+- Unit testing: https://github.com/mahmoudsfares/unit-testing-sample
+
 
 
 🔭 Currently working on extending this list ...
