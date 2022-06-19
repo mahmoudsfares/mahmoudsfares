@@ -28,8 +28,6 @@ Java:
 
 - Testing (Espresso, IdlingResource): https://github.com/mahmoudsfares/IdlingResource-Sample
 
-- [FORKED] QR scanner: https://github.com/mahmoudsfares/QR-APP
-
 
 
 Kotlin:
