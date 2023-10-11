@@ -58,6 +58,8 @@ Flutter:
 
 - Firebase storage (file_picker): https://github.com/mahmoudsfares/firebase-storage-sample
 
+- Firebase cloud messaging (notifications): https://github.com/mahmoudsfares/fcm_sample
+
 - Unit testing: https://github.com/mahmoudsfares/unit-testing-sample
 
 
