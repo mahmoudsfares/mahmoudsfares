@@ -34,7 +34,7 @@ Kotlin:
 
 - UnitedMania (Retrofit, MVVM architecture, Paging3, Hilt for dependency injection): https://github.com/mahmoudsfares/UnitedMania-Kotlin
 
-- KotlinRepos: (Retrofit, RoomDB) https://github.com/mahmoudsfares/kotlin_repos.git
+- KotlinRepos: (Retrofit, RoomDB) https://github.com/mahmoudsfares/kotlin_repos
 
 - DataStore: https://github.com/mahmoudsfares/DataStore-Sample
 
@@ -50,7 +50,11 @@ Flutter:
 
 - Bottom navigation with multiple navigators: https://github.com/mahmoudsfares/bottom-nav-multiple-navigators-sample
 
-- Dependency injection with GetX: https://github.com/mahmoudsfares/get-di-sample.git
+- Dependency injection with GetX: https://github.com/mahmoudsfares/get-di-sample
+
+- Bloc & Cubit: https://github.com/mahmoudsfares/bloc_vs_cubit
+
+- Streams with Cubit: https://github.com/mahmoudsfares/flutter_stream_sample
 
 - Timer: https://github.com/mahmoudsfares/timer-sample
 
