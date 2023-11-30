@@ -64,6 +64,8 @@ Flutter:
 
 - Firebase cloud messaging (notifications): https://github.com/mahmoudsfares/fcm_sample
 
+- QR Essentials: https://github.com/mahmoudsfares/qr_essentials
+
 - Unit testing: https://github.com/mahmoudsfares/unit-testing-sample
 
 
