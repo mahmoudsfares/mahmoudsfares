@@ -68,6 +68,6 @@ Flutter:
 
 - Unit testing: https://github.com/mahmoudsfares/unit-testing-sample
 
-
+- Time slots system: https://github.com/mahmoudsfares/time_slots_sample
 
 🔭 Currently working on extending this list ...
