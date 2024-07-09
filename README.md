@@ -50,7 +50,7 @@ Flutter:
 
 - Bottom navigation with multiple navigators: https://github.com/mahmoudsfares/bottom-nav-multiple-navigators-sample
 
-- Dependency injection with GetX: https://github.com/mahmoudsfares/get-di-sample
+- Dependency injection with GetX vs GetIt: https://github.com/mahmoudsfares/get-dependency-injection-sample
 
 - Bloc & Cubit: https://github.com/mahmoudsfares/bloc_vs_cubit
 
