@@ -64,10 +64,20 @@ Flutter:
 
 - Firebase cloud messaging (notifications): https://github.com/mahmoudsfares/fcm_sample
 
+- Localization: https://github.com/mahmoudsfares/localization_sample
+
+- PDF reader: https://github.com/mahmoudsfares/pdf_viewer
+
 - QR Essentials: https://github.com/mahmoudsfares/qr_essentials
 
 - Unit testing: https://github.com/mahmoudsfares/unit-testing-sample
 
 - Time slots system: https://github.com/mahmoudsfares/time_slots_sample
+
+- X-Y graph: https://github.com/mahmoudsfares/xy_graph_sample
+
+- Firestore: https://github.com/mahmoudsfares/firestore_sample
+
+- Push notifications: https://github.com/mahmoudsfares/push_notifications_sample
 
 🔭 Currently working on extending this list ...
