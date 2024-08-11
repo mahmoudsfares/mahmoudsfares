@@ -45,6 +45,8 @@ Flutter:
 
 - Push notifications: https://github.com/mahmoudsfares/push_notifications_sample
 
+- Object detection with TFLite: https://github.com/mahmoudsfares/tflite_object_detection_sample
+
 
 
 Java:
