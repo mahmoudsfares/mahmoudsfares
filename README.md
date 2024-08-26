@@ -47,6 +47,9 @@ Flutter:
 
 - Object detection with TFLite: https://github.com/mahmoudsfares/tflite_object_detection_sample
 
+- Firebase realtime database: https://github.com/mahmoudsfares/realtime_database_sample
+
+- Youtube live streaming: https://github.com/mahmoudsfares/live_streaming_sample
 
 
 Java:
