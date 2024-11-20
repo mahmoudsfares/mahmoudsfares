@@ -92,6 +92,8 @@ JetpackCompose:
 
 - Navigation: https://github.com/mahmoudsfares/NavigationJetpackCompose
 
+- RecipesGenie (UI, Responsive design): https://github.com/mahmoudsfares/RecipiesGenie
+
 
 
 
