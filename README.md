@@ -94,7 +94,7 @@ JetpackCompose:
 
 - RecipesGenie (UI, Responsive design): https://github.com/mahmoudsfares/RecipiesGenie
 
-
+- LifecycleAwareTimer (Lifecycle, DataStore): https://github.com/mahmoudsfares/LifecycleAwareTimer
 
 
 🔭 Currently working on extending this list ...
