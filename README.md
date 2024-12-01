@@ -96,5 +96,7 @@ JetpackCompose:
 
 - LifecycleAwareTimer (Lifecycle, DataStore): https://github.com/mahmoudsfares/LifecycleAwareTimer
 
+- Paging: https://github.com/mahmoudsfares/PagingSample-JetpackCompose
+
 
 🔭 Currently working on extending this list ...
