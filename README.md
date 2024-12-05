@@ -98,5 +98,7 @@ JetpackCompose:
 
 - Paging: https://github.com/mahmoudsfares/PagingSample-JetpackCompose
 
+- UnitedMania (Retrofit, MVVM architecture, Paging3, Hilt for dependency injection): https://github.com/mahmoudsfares/UnitedMania-JetpackCompose
+
 
 🔭 Currently working on extending this list ...
