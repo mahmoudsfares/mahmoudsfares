@@ -53,9 +53,11 @@ Flutter:
 
 - Widget testig: https://github.com/mahmoudsfares/widget_testing_sample
 
+- Isolates: https://github.com/mahmoudsfares/isolates_sample
+
+
 
 Java:
-
 
 - UnitedMania (Retrofit, NavigationComponent, MVVM architecture): https://github.com/mahmoudsfares/UnitedMania-Java
 
@@ -78,7 +80,6 @@ Java:
 
 
 Kotlin:
-
 
 - UnitedMania (Retrofit, MVVM architecture, Paging3, Hilt for dependency injection): https://github.com/mahmoudsfares/UnitedMania-Kotlin
 
