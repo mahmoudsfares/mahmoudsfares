@@ -9,7 +9,7 @@ Here are links to samples of the things that I've learned so far:
 Flutter:
 
 
-- UnitedMania (http, infinite_scrolling_pagination, MVVM architecture mimicking with get): https://github.com/mahmoudsfares/UnitedMania-Flutter
+- UnitedMania (http, infinite_scrolling_pagination, MVVM architecture mimicking with get): https://github.com/mahmoudsfares/united_mania_flutter
 
 - FloorDatabase: https://github.com/mahmoudsfares/floordb-sample
 
