@@ -55,6 +55,7 @@ Flutter:
 
 - Isolates: https://github.com/mahmoudsfares/isolates_sample
 
+- Fake location detector: https://github.com/mahmoudsfares/fake_location_detector_sample
 
 
 Java:
